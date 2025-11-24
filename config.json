@@ -1,0 +1,9 @@
+{
+  "database": {
+    "host": "mysql-349d3117-sandip-ff14.c.aivencloud.com",
+    "port": 10661, 
+    "user": "avnadmin",
+    "password": "AVNS_Wlo7pG8K_aXTb-iqIqr",
+    "database": "defaultdb"
+  }
+}
